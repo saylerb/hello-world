@@ -3,3 +3,6 @@ Creating this as my first repo, I might save ideas or other notes in here as I l
 
 
 Hello all - I'm Brian and I'm learning how to program.
+
+
+# Idea List
